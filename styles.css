@@ -1,0 +1,30 @@
+body {
+    color: white;
+    background: black;
+    margin: 0px;
+}
+
+header {
+    border-bottom: solid 2px pink;
+    padding: 10px;
+    font-size: 22px;
+    color: pink;
+}
+
+section{
+    background: #985b66;
+    padding-bottom: 80px;
+}
+
+.chamadda-texto{
+    margin-right: 300px;
+}
+img{
+    height: 200px;
+}
+
+.categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 
+}
